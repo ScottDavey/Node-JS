@@ -1,0 +1,8 @@
+/* CSS DOCUMENT */
+
+* { padding:0px; margin:0px auto; }
+html, body { font:normal 14pt "Josefin Sans", "Century Gothic", Verdana, Arial; }
+
+h1 { font-size:24pt; font-weight:normal; }
+
+#wrapper { width:90%; margin-top:100px; }

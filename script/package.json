@@ -1,0 +1,18 @@
+{
+  "name": "script",
+  "version": "1.0.0",
+  "description": "A little test app",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.14.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fun"
+  ],
+  "author": "Me",
+  "license": "ISC"
+}
